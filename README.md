@@ -5,6 +5,12 @@
 Trabajo de simulacion de una epidemia tipo COVID-19, usando el modelo SIR
 (sanos, infectados, recuperados) visto en clase, con pygame.
 
+## Video y foto de ejecución del programa 
+
+https://drive.google.com/file/d/1-ewCTiROeGCNHXMDXgRsut_NAH540Ltt/view?usp=sharing
+
+![](Images/image.png)
+
 ## Idea del proyecto
 
 Ademas de la simulacion basica (gente moviendose, contagiandose y
